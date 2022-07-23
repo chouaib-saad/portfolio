@@ -224,7 +224,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('/css/coverphoto.jpg') top center;
+  background: url('/css/coverphoto.png') top center;
   background-size: cover;
 }
 
