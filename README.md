@@ -1,4 +1,5 @@
-#my personal portfolio
+# my personal portfolio
+
 Seeking a job opportunity as a web developper , I wish to work with a diverse team that works towards contributing to the company's vision and goals.
 
 
@@ -8,6 +9,4 @@ Seeking a job opportunity as a web developper , I wish to work with a diverse te
 
  
 
-## more details here :
-https://chouaib-saad.github.io/portfolio/
-
+## I'd be glad if you take a look from <a href="https://chouaib-saad.github.io/portfolio/" target="_blank">here</a> !
