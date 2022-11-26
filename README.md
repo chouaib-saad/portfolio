@@ -9,4 +9,4 @@ Seeking a job opportunity as a web developper , I wish to work with a diverse te
 
  
 
-## I'd be glad if you take a look from <a href="https://chouaib-saad.github.io/portfolio/" target="_blank">here</a> !
+## I'd be glad if you take a look from <a href="https://chouaib-saad.github.io/portfolio/" target="_blank">here</a> ❤
